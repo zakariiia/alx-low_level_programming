@@ -4,7 +4,7 @@
 #include "lists.h"
 
 /**
- * print_list - alx africa proramme
+ *o print_list - this func prints all the elements of a list_t list.
  * @h: name of the list
  * Return: the number of nodes.
  */
