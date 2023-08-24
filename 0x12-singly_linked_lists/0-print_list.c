@@ -4,7 +4,7 @@
 #include "lists.h"
 
 /**
- *o print_list - this func prints all the elements of a list_t list.
+ * pprint_list - this func prints all the elements of a list_t list.
  * @h: name of the list
  * Return: the number of nodes.
  */
