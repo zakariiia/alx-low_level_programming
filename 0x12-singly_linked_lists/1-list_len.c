@@ -4,7 +4,6 @@
 #include "lists.h"
 
 /**
- * by zaka moukrim
  * list_len - returns the number of elements in a linked list_t list.
  * @h: name of the list
  * Return: the number of nodes.
