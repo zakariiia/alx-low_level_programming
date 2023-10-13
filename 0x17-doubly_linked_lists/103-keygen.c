@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
 	for (i = 0, b = 1; i < len; i++)
 		b *= argv[1][i];
 	p[2] = l[(b ^ 85) & 63];
-	for V (b = argv[1][0], i = 0; i < len; i++)
+	for (b = argv[1][0], i = 0; i < len; i++)
 		if ((char)b <= argv[1][i])
 			b = argv[1][i];
 	srand(b ^ 14);
